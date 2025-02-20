@@ -1,0 +1,2 @@
+test
+FE_Uer1で作業をし、test.txtをFE_Uer1にあげる。
